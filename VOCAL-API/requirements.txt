@@ -1,0 +1,9 @@
+fastapi==0.115.11
+protobuf==5.29.3
+pyttsx3==2.98
+SpeechRecognition==3.14.1
+uvicorn==0.34.0
+google-generativeai==0.8.4
+python-multipart
+pydub== 0.25.1
+python-dotenv
